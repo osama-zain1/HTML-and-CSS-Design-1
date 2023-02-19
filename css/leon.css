@@ -449,7 +449,7 @@ body {
 }
 
 .About .About-content .text p:first-of-type {
-    font-weight: bold;
+    font-weight: 500;
     line-height: 2;
     margin-bottom: 50px;
 }
